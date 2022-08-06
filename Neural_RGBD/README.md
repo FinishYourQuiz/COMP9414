@@ -12,7 +12,7 @@ Install Marching cube algo
 ```
 pip install --upgrade PyMCubes
 ```
-In case of any uninstalled packages, please use conda install or pip install directly.
+In case of any packages that are not installed, please use conda install or pip install directly.
   ## Dataset
 
 ScanNet: Attached in submission files.
